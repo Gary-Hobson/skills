@@ -1,0 +1,7 @@
+# Files
+settings.json
+settings.local.json
+.env
+
+# Folders
+__pycache__
