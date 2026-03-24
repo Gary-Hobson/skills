@@ -14,7 +14,7 @@ Provide a directory with three Allegro-exported PST files: `pstchip.dat`, `pstxp
 
 Ask your agent:
 
-- "What ICs are on the DEV4 board?"
+- "What ICs are on the board?"
 - "Show the peripheral circuit of U1700"
 - "Where does the IMU connect to?"
 - "What's on the SPI_MISO net?"
