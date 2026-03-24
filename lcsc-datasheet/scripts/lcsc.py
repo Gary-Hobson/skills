@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-LCSC (立创商城) Component Search & Datasheet Download Tool
+LCSC Component Search & Datasheet Download Tool
 
 Powered by JLCSearch API (https://jlcsearch.tscircuit.com)
 
