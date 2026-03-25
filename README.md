@@ -47,5 +47,5 @@ netlist-query                lcsc-datasheet              datasheet
 (find chip on board)  →  (search & download PDF)  →  (convert & query)
 
 "What ICs are on        "Download the AW36514       "What's the I2C
- the DEV4 board?"        datasheet"                   address?"
+ the board?"        datasheet"                   address?"
 ```
